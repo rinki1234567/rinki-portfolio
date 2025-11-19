@@ -1,12 +1,12 @@
 import React from 'react'
 import {Routes, Route} from 'react-router-dom'
-import Home from './pages/Home'
-import Navbar from './components/Navbar'
-import About from './components/About'
-import Skills from './components/Skills'
-import Projects from './components/Projects'
-import Education from './components/Education'
-import Contacts from './components/Contacts'
+import Home from './pages/Home.jsx'
+import Navbar from './components/Navbar.jsx'
+import About from './components/About.jsx'
+import Skills from './components/Skills.jsx'
+import Projects from './components/Projects.jsx'
+import Education from './components/Education.jsx'
+import Contacts from './components/Contacts.jsx'
 
 const App = () => {
   return (

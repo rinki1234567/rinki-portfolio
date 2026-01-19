@@ -49,7 +49,7 @@ const About = () => {
          className='md:w-1/2'
          >
         <div className='rounded-2xl p-5 '>
-            <h3 className='text-3xl font-semibold mb-6'>My Journey</h3>
+            <h3 className='text-3xl font-semibold mb-6'>My Journey ,Rinki Sagar</h3>
             <p className='text-gray-200 mb-12'>I’m a passionate Front-End Developer who loves turning ideas into clean, responsive, and user-friendly web experiences. My journey began with simple HTML and CSS pages, and today I build dynamic, feature-rich applications using JavaScript, DOM, and modern tools like React and Tailwind.
             I enjoy creating clean and responsive web pages and understanding how each part of a website works behind the scenes.</p>
 
